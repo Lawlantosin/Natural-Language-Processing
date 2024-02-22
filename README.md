@@ -1,4 +1,4 @@
-```markdown
+
 # Sentiment Analysis Preprocessing Tool
 
 ## Introduction
